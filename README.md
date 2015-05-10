@@ -11,4 +11,4 @@ GreekLDA also comes with a REST API in python <a href="http://flask.pocoo.org/">
 Instructions for deployment will be added soon!
 
 <h1>Contribution</h1>
-GreekLDA is a newly project and it is possible that it suffers from several issues. So feel free to share your ideas(and code) and contribute!
+GreekLDA is a newly project and it may suffer from several issues. So feel free to share your ideas(and code) and contribute!
