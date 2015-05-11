@@ -1,4 +1,4 @@
-# GreekLDA
+# G-LDA(Greek LDA)
 
 <h1>Description</h1>
 GreekLDA is a project about Greek topic modeling/clustering. It applies Latent Dirichlet Allocation(LDA) extended with some modifications to work well on Greek text data. For this purpose, it uses <a href="https://github.com/skroutz/elasticsearch-skroutz-greekstemmer">elasticsearch-skroutz-greek-stemmer</a> for stop-word removal and stemming. The LDA algorithm is implemented with <a href="https://radimrehurek.com/gensim/">gensim</a>.
