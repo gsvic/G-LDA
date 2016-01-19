@@ -106,7 +106,7 @@ class ModelTrainer():
         return self.model.show_topic(topic)
 
     """
-    Loads a saved model and it's dictionary
+    Loads a saved model and the corresponding dictionary
     """
     def load(self, lda_path, dictionary_path):
         model = models.LdaModel.load(lda_path)
